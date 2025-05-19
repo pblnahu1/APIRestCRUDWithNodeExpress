@@ -68,3 +68,5 @@ npm start
 ```bash
 npm install uuid
 ```
+
+## Autor: [Pablo Torrez](https://github.com/pblnahu1)
